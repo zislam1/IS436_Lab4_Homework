@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+<title>
+UMBC Information System Undergraduate Program
+</title>
+</head>
+
+<!--
+    #site-header {background-color: #000000;color: #ffffff;}
+    #site-header h1 {font-size: 38px;color: #ffffff;}
+    #site-header h1 a {color: #ffffff;}
+
+
+<body>
+<header>
+		<div>
+			<!--Add UMBC logo here-->
+			<a href = "http://umbc.edu" title = "UMBC : An Honors University in Maryland">
+				<img src="umbcLogo.png" alt="UMBC LOGO" height="79" width="303" > 
+			</a>
+		</div>
+		<nav class="topNav" >
+			<ul>
+				<li><a href = "http://my.umbc.edu">myUMBC</a></li>
+				<li><a href = "http://my.umbc.edu/events">Events</a></li>
+				<li><a href = "http://my.umbc.edu/go/directory">Directory</a></li>
+			</ul>
+		</nav>
+	</header>
+
+<h1>
+Undergraduate Program Information System
+</h1>
+<h3>
+The BS program prepares students for all potential career positions in the IS field. 
+These include: Systems Analysis and Design, Computer Networking and Health Care Informatics.
+</h3>
+
+<div>
+<p><strong>Information System</strong></p>
+<ul>
+<li>IS 300 - Management Information System</li>
+<li>IS 310 - Software and Hardware Concepts</li>
+<li>IS 410 – Introduction to Database Design</li>
+<li>IS 420 – Database Application Development</li>
+<li>IS 425 – Decision Support Systems</li>
+<li>IS 436 – Structured Systems Analysis and Design</li>
+<li>IS 450 – Data Communications and Networks</li>
+<li>IS 451 – Network Design and Management</li>
+<li>IS 3xx or 4xx – Upper Level IS Elective</li>
+</ul>
+</div>
+
+<div>
+<p>Mathematics and Computer Science:</p>
+<ul>
+<li>MATH 155 – Applied Calculus</li>
+<li>MATH 215 – Finite Mathematics for Information Sciences</li>
+<li>STAT 351 – Applied Statistics for Business and Economics</li>
+<li>IS 147 – Introduction to Computer Programming</li>
+</ul>
+</div>
+
+<div>
+<p>Administrative Science:</p>
+<ul>
+<li>MGMT 210 – The Practice of Management</li>
+<li>ECON 101 – Principles of Microeconomics (SS)</li>
+<li>ECON 102 – Principles of Macroeconomics (SS)</li>
+<li>ECON 121 – Principles of Accounting I</li>
+<li>ECON 122 – Principles of Accounting II</li>
+<li>ENGL 393 – Technical Communication</li>
+</ul>
+</div>
+
+
+<p>Notes:</p>
+<p>
+Students must earn a grade of “C” or better for any course to be applied to the Information Systems major.
+</p>
+<p>
+                    <a href="Home.html" title="Home">Home</a>
+                    <a href="InformationSystem.html" title="Information System">Information System</a>
+                    <a href ="ContactUs.html" title ="ContactUs">Contact Us</a>
+</p>
+</body>
+</html>
