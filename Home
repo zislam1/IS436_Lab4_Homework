@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+<title>
+Home
+</title>
+</head>
+
+<body>
+        <p>
+                <img src="image/umbc logo.png" alt="UMBC" style="width:400px;height:128px;"/><br />
+                </P>
+			<ul>
+                <li><a href="HomeIS436.html" title="homepage">Home</a></li>
+                <li><a href="InformationSystemIS436.html" title="Information System">InformationSystem</a></li>
+                <li><a href="ContactUsIS436.html" title="Contact Us">Contact Us</a></li>
+                <li class="float-right"><input class="search" type="text" name="search" /></li>
+            </ul>
+<h1>
+Department of Information System
+</h1>
+<p>
+The BS program prepares students for all potential career positions in the IS field. These include: Systems Analysis and Design, Computer Networking and Health Care Informatics.
+
+For successful completion of the degree, all students must satisfy the general education requirements that are explained in the UMBC Undergraduate Catalog.
+</p>
+
+				<p>
+                    <a href="HomeIS436.html" title="Home">Home</a>
+                    <a href="InformationSystemIS436.html" title="Information System">Information System</a>
+                    <a href ="ContactUsIS436.html" title ="ContactUs">Contact Us</a>
+                </p>
+
+</body>
+</html>
