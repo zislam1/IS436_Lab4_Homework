@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<head>
+<title>
+Contact Us
+</title>
+</head>
+
+<body>
+	<p>
+	<img src="image/umbc logo.png" alt="UMBC" style="width:400px;height:128px;"/><br />
+	</P>
+
+			<ul>
+                <li><a href="HomeIS436.html" title="homepage">Home</a></li>
+                <li><a href="InformationSystemIS436.html" title="Information System">InformationSystem</a></li>
+                <li><a href="ContactUsIS436.html" title="Contact Us">Contact Us</a></li>
+                <li class="float-right"><input class="search" type="text" name="search" /></li>
+            </ul>
+<h1>
+Please Fill in the Form Below to Contact Us
+</h1>
+
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
+
+<p>
+                    <a href="HomeIS436.html" title="Home">Home</a>
+                    <a href="InformationSystemIS436.html" title="Information System">Information System</a>
+                    <a href ="ContactUsIS436.html" title ="ContactUs">Contact Us</a>
+</p>
+</body>
+</html>
